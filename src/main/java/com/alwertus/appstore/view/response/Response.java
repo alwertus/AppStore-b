@@ -1,4 +1,4 @@
-package com.alwertus.spassistent.common.view;
+package com.alwertus.appstore.view.response;
 
 public abstract class Response {
 
